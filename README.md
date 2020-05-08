@@ -1,4 +1,4 @@
-# PaintForiOS_Update
+# Paint For iOS Update
 
 This is an update on my previous note-taking app, Paint for iOS, which can be viewed here: https://github.com/sinbycosmay/Paint-For-iOS
 
